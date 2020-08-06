@@ -29,7 +29,7 @@ libraries[equalheight][download][url] = "https://raw.githubusercontent.com/joren
 libraries[velocity][destination] = "themes/europa"
 libraries[velocity][directory_name] = "js/libraries"
 libraries[velocity][download][type] = "get"
-libraries[velocity][download][url] = "https://raw.githubusercontent.com/julianshapiro/velocity/master/velocity.min.js"
+libraries[velocity][download][url] = "http://cdnjs.cloudflare.com/ajax/libs/velocity/2.0.6/velocity.min.js"#"https://raw.githubusercontent.com/julianshapiro/velocity/master/velocity.min.js"
 
 libraries[modernizr][destination] = "themes/europa"
 libraries[modernizr][directory_name] = "js/libraries/modernizr"
